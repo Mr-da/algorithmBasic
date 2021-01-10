@@ -1,4 +1,4 @@
-package day1;
+package day1_01;
 
 
 public class Code1_SelectionSort {

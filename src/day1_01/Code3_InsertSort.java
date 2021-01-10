@@ -1,4 +1,4 @@
-package day1;
+package day1_01;
 
 public class Code3_InsertSort {
     //0~i 做到有序，右边无序一个个比较插入
