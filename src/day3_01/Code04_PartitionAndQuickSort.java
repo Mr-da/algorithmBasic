@@ -1,5 +1,5 @@
 package day3_01;
-
+//递归方法帮我们记下划分的位置|=x|,左侧右侧继续执行递归
 public class Code04_PartitionAndQuickSort {
     public static void swap(int[] arr, int i, int j) {
         int tmp = arr[i];
